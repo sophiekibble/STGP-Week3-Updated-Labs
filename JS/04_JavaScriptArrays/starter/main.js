@@ -31,3 +31,4 @@ for (let i = 0, j = quote.length; i < j; i++) {
         output += quote[i] + ' '
     }
 }
+console.log(output);
